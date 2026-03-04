@@ -1,0 +1,21 @@
+# Project Dependencies
+
+This project is implemented using Node.js and Next.js rather than Python.
+
+Install dependencies using:
+
+npm install
+
+Required environment:
+
+Node.js >= 18
+npm >= 9
+
+Main framework:
+Next.js
+
+Frontend:
+React
+
+Styling:
+Tailwind CSS
